@@ -1,0 +1,16 @@
+TODO
+
+This file contains tasks that need work
+
+0. EVERYTHING
+
+1.  Created classes for different types of objects
+2.  figure out how to draw at angles
+3.  write enemy AI
+4.  compute collisions
+5.  figure out score mechanics
+6.  figure out clock
+7.  flesh out enemy class
+8.  flesh out food
+9.  make background
+10. update init_game
