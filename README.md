@@ -1,18 +1,10 @@
 Microburst
 ==========
-Tufts Comp 23 S14 group 5
-
-Names: Sam Weiss, Anzu Hakone, Harry O'Sullivan, David Pointeau
+Collaborators: Sam Weiss, Harry O'Sullivan, David Pointeau
 
 Last updated: 3/28/14
- 
-File: microburst.py
 
---------------------------------------------------------------------------------
-
-Microburst
-
-
+<hr>
 Ever felt like you were about to implode after a hefty mexican meal? Is there an internal war going on your stomach? Is there a growing microbe feeding on what you eat? Microburst is the game for you!
 
 Microburst is a game that takes place in your stomach. The user will control the movement (up, down, left, right) of a hungry germ. This germ either grows in size when it eats a “good-type” of nutriment or down-sizes when it collides with another germ or another unwanted element.
