@@ -1,9 +1,12 @@
 Microburst
 ==========
 Tufts Comp 23 S14 group 5
+
 Names: Sam Weiss, Anzu Hakone, Harry O'Sullivan, David Pointeau
- Date: 3/28/14
- File: microburst.py
+
+Date: 3/28/14
+ 
+File: microburst.py
 
 --------------------------------------------------------------------------------
 
