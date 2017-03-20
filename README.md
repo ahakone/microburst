@@ -6,21 +6,6 @@ Names: Sam Weiss, Anzu Hakone, Harry O'Sullivan, David Pointeau
  File: microburst.py
 
 --------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-
-
-Current project status:
-
-This git version of our code is a stable branch, it does not contain most of the most recent code. This is because most of the code that is being tested is unstable and does not always yeild a playable expereince. 
-
-
-Project Proposal:
-
-Project Proposal
-Team 5
-
-David Pointeau~ Harry O’Sullivan~Sam Weiss~Anzu Hakone
 
 Microburst
 
