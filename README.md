@@ -4,6 +4,8 @@ Collaborators: Sam Weiss, Harry O'Sullivan, David Pointeau
 
 Last updated: 3/28/14
 
+Demo video: <a href="https://anzuhakone.com/media/microburst.mp4">Link</a>
+
 <hr>
 Ever felt like you were about to implode after a hefty mexican meal? Is there an internal war going on your stomach? Is there a growing microbe feeding on what you eat? Microburst is the game for you!
 
@@ -16,5 +18,7 @@ If the protagonist germ becomes too small as a result of colliding with bigger g
 Then on, the germ moves on to the next level and finds another host stomach to satisfy its insatiable hunger. Every stomach is different and every host eats different types of food. 
 
 The variation in the environment and in the elements present in the stomach will determine the difficulty of a specific level.
+
+All graphics and music were our original work.  
 
 
